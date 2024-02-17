@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1615830738 source:c:\users\acer\desktop\student record management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<time.h>
+
